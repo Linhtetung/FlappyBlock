@@ -1,0 +1,33 @@
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\bin\Debug\082514FlappyBlock.exe
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\bin\Debug\082514FlappyBlock.pdb
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\bin\Debug\082514FlappyBlock.xml
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\obj\x86\Debug\_082514FlappyBlock.Form1.resources
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\obj\x86\Debug\_082514FlappyBlock.Resources.resources
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\obj\x86\Debug\082514FlappyBlock.exe
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\obj\x86\Debug\082514FlappyBlock.xml
+C:\Users\CXNOTEBOOK\AppData\Local\Temporary Projects\082514FlappyBlock\obj\x86\Debug\082514FlappyBlock.pdb
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\082514FlappyBlock.exe
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\082514FlappyBlock.xml
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\082514FlappyBlock.pdb
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\bin\Debug\082514FlappyBlock.exe
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\bin\Debug\082514FlappyBlock.pdb
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\bin\Debug\082514FlappyBlock.xml
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\_082514FlappyBlock.Form1.resources
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\_082514FlappyBlock.Resources.resources
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2010\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\082514FlappyBlock.exe
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\082514FlappyBlock.xml
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\082514FlappyBlock.pdb
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\bin\Debug\082514FlappyBlock.exe
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\bin\Debug\082514FlappyBlock.pdb
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\bin\Debug\082514FlappyBlock.xml
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\_082514FlappyBlock.Form1.resources
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\_082514FlappyBlock.Resources.resources
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\CXNOTEBOOK\Documents\Visual Studio 2005\Projects\082514FlappyBlock\082514FlappyBlock\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
